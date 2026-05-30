@@ -8,20 +8,20 @@ export interface Video {
 export const videos: Video[] = [
   {
     id: "1",
-    youtubeId: "dQw4w9WgXcQ",
-    title: "Summer Festival Recap",
-    description: "A cinematic recap of the 2024 Summer Music Festival in Columbus, Ohio.",
+    youtubeId: "iU71SO2cAGw",
+    title: "Finding Middle Ground: Hot Buddha's Pursuit of Balance (A Documentary)",
+    description: "Documentary",
   },
   {
     id: "2",
-    youtubeId: "dQw4w9WgXcQ",
-    title: "Downtown After Dark",
-    description: "A short film exploring Columbus streets at night through a cinematic lens.",
+    youtubeId: "wx7zp9jxbw0",
+    title: "vlogging on a digicam?",
+    description: "Vlog",
   },
   {
     id: "3",
-    youtubeId: "dQw4w9WgXcQ",
-    title: "Portrait Session BTS",
-    description: "Behind the scenes of a natural light portrait session in the studio.",
+    youtubeId: "nsRF0rXxC0M",
+    title: "Shooting Video in Canada Wildfire Smoke",
+    description: "Vlog",
   },
 ];
