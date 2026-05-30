@@ -77,7 +77,6 @@ const order: { file: string; category: Category; featured?: boolean }[] = [
   { file: "IMG_5958.webp",                    category: "people"  }, // B&W film portrait, woman on street
   { file: "IMG_5974.webp",                    category: "people"  }, // B&W portrait, man in snowstorm
   { file: "000253050020.webp",                category: "people"  },
-  { file: "DSCF8532.webp",                    category: "people"  },
   { file: "DSCF0719.webp",                    category: "sports"  }, // person kneeling on football field at night
   { file: "DSCF2774-Enhanced-SR.webp",        category: "people"  },
   { file: "DSCF2164-Edit.webp",               category: "things"  }, // skateboard wheels on shelf
