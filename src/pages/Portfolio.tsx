@@ -14,7 +14,7 @@ for (const [path, mod] of Object.entries(modules)) {
 }
 
 // ─── DEV TOGGLE ───────────────────────────────────────────────────────────────
-const SHOW_FILENAMES = true; // flip to false to hide filename labels
+const SHOW_FILENAMES = false; // flip to false to hide filename labels
 // ──────────────────────────────────────────────────────────────────────────────
 
 type Category = "people" | "places" | "sports" | "things";
