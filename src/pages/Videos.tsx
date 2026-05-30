@@ -6,7 +6,7 @@ const Videos = () => {
       <div className="px-6 md:px-12 py-16 md:py-24 max-w-5xl">
         <h1 className="font-serif text-4xl md:text-5xl tracking-tight">Videos</h1>
         <p className="font-sans text-sm text-muted-foreground mt-4 max-w-lg">
-          Selected video work — concert recaps, short films, and behind-the-scenes.
+          Selected video work
         </p>
 
         <div className="mt-14 space-y-20">
